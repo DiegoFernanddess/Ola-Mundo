@@ -1,2 +1,2 @@
 # Ola Mundo
- Primeiro respositório do curdo de Git e GitHub
+ Primeiro respositório do curso de Git e GitHub
